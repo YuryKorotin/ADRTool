@@ -1,16 +1,16 @@
-#Android Application ADR for module
+# Android Application ADR for module
 
-##SSR or COMPOSE
+## SSR or COMPOSE
 
-##MVI or MVVM
+## MVI or MVVM
 
-##List of used patterns
-
-
-##Sources of data
+## List of used patterns
 
 
-##What classes should be covered by tests
+## Sources of data
 
 
-##Plain uml diagram
+## What classes should be covered by tests
+
+
+## Plain uml diagram
