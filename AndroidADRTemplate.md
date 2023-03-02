@@ -10,6 +10,7 @@ Sample: Sample project. User profile.
 - [ ] REJECTED
 - [ ] DEPRECATED
 - [ ] SUPERSEDED
+
 ## SSR or COMPOSE[OPTIONAL]
 Will be this module used on both platforms(ios and android)?
 - [ ] Yes
@@ -21,6 +22,7 @@ Will be this module used on both platforms(ios and android)?
 - [ ] Yes
 - [ ] No
 2 of 3 means that SSR must be used for screen
+
 ## MVI or MVVM(UI modules only)[OPTIONAL]
 Descibe of intents for this screen/module
 - [x] Loading
@@ -29,6 +31,7 @@ Descibe of intents for this screen/module
 - [ ] Intent1
 - [ ] Intent2
 If more than 5 intents MVI recommended
+
 ## List of used patterns, that can be used in the module[OPTIONAL]
 Creational Design Patterns
 - [ ] Abstract Factory. Allows the creation of objects without specifying their concrete type. 
@@ -56,6 +59,7 @@ Behavior Design Patterns
 - [ ] Strategy. Allows one of a family of algorithms to be selected on-the-fly at run-time.
 - [ ] Template Method. Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.
 - [ ] Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+
 ## Sources of data[OPTIONAL]
 API requests
 * /path/path 
@@ -63,14 +67,17 @@ API requests
 Database entities/tables
 * EntityOne
 * EntityTwo
+
 ## Firebase services[OPTIONAL]
 List of firebase services that can be used
 - [ ] Firestore
 - [ ] RemoteConfig
 - [ ] Firebase auth
 - [ ] Cloud Messaging
+
 ## What classes are covered by tests or should be covered[REQUIRED]
 - [x] UseCaseOne
 - [ ] UseCaseTwo
+
 ## Plant uml diagram[REQUIRED]
 [UML Diagram](plant_uml_sample.puml)
