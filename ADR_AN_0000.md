@@ -36,6 +36,9 @@ Sample: Sample project. User profile.
 - [x] Error
 - [ ] Intent1
 - [ ] Intent2
+
+The list could be replaced with link to *.kt file with intents [Intents](Intents.kt)
+
 ### If more than 5 intents MVI recommended
 
 ## List of used patterns, that can be used in the module[OPTIONAL]
