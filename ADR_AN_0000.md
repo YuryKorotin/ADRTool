@@ -12,6 +12,7 @@ Sample: Sample project. User profile.
 - [ ] SUPERSEDED
 
 ## SSR or COMPOSE[OPTIONAL]
+
 ### Will be this module used on both platforms(ios and android)?
 - [ ] Yes
 - [ ] No 
@@ -24,6 +25,7 @@ Sample: Sample project. User profile.
 ### 2 of 3 means that SSR must be used for screen
 
 ## MVI or MVVM(UI modules only)[OPTIONAL]
+
 ### Descibe of intents for this screen/module
 - [x] Loading
 - [x] Content
@@ -33,12 +35,14 @@ Sample: Sample project. User profile.
 ### If more than 5 intents MVI recommended
 
 ## List of used patterns, that can be used in the module[OPTIONAL]
+
 ### Creational Design Patterns
 - [ ] Abstract Factory. Allows the creation of objects without specifying their concrete type. 
 - [ ] Builder. Uses to create complex objects.
 - [ ] Factory Method. Creates objects without specifying the exact class to create.
 - [ ] Prototype. Creates a new object from an existing object.
 - [ ] Singleton. Ensures only one instance of an object is created.
+
 ### Structural Design Patterns
 - [ ] Adapter. Allows for two incompatible classes to work together by wrapping an interface around one of the existing classes.
 - [ ] Bridge. Decouples an abstraction so two classes can vary independently.
@@ -47,6 +51,7 @@ Sample: Sample project. User profile.
 - [ ] Facade. Provides a simple interface to a more complex underlying object.
 - [ ] Flyweight. Reduces the cost of complex object models.
 - [ ] Proxy. Provides a placeholder interface to an underlying object to control access, reduce cost, or reduce complexity.
+
 ### Behavior Design Patterns
 - [ ] Chain of Responsibility. Delegates commands to a chain of processing objects.
 - [ ] Command. Creates objects which encapsulate actions and parameters.
@@ -61,9 +66,11 @@ Sample: Sample project. User profile.
 - [ ] Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
 
 ## Sources of data[OPTIONAL]
+
 ### API requests
 * /path/path 
 * /path/path
+
 ### Database entities/tables
 * EntityOne
 * EntityTwo
@@ -82,3 +89,7 @@ Sample: Sample project. User profile.
 
 ## Plant uml diagram[REQUIRED]
 [UML Diagram](plant_uml_sample.puml)
+
+## Decision[REQUIRED]
+What is the change that we're proposing and/or doing?
+Just in few sentences
