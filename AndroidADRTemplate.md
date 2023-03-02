@@ -12,34 +12,34 @@ Sample: Sample project. User profile.
 - [ ] SUPERSEDED
 
 ## SSR or COMPOSE[OPTIONAL]
-Will be this module used on both platforms(ios and android)?
+### Will be this module used on both platforms(ios and android)?
+- [ ] Yes
+- [ ] No 
+### Should the module participate in A/B testing and experiments?
+- [ ] Yes
+- [ ] No 
+### Should the module be updated by hot reload?
 - [ ] Yes
 - [ ] No
-* Should the module participate in A/B testing and experiments?
-- [ ] Yes
-- [ ] No
-* Should the module be updated by hot reload?
-- [ ] Yes
-- [ ] No
-2 of 3 means that SSR must be used for screen
+### 2 of 3 means that SSR must be used for screen
 
 ## MVI or MVVM(UI modules only)[OPTIONAL]
-Descibe of intents for this screen/module
+### Descibe of intents for this screen/module
 - [x] Loading
 - [x] Content
 - [x] Error
 - [ ] Intent1
 - [ ] Intent2
-If more than 5 intents MVI recommended
+### If more than 5 intents MVI recommended
 
 ## List of used patterns, that can be used in the module[OPTIONAL]
-Creational Design Patterns
+### Creational Design Patterns
 - [ ] Abstract Factory. Allows the creation of objects without specifying their concrete type. 
 - [ ] Builder. Uses to create complex objects.
 - [ ] Factory Method. Creates objects without specifying the exact class to create.
 - [ ] Prototype. Creates a new object from an existing object.
 - [ ] Singleton. Ensures only one instance of an object is created.
-Structural Design Patterns
+### Structural Design Patterns
 - [ ] Adapter. Allows for two incompatible classes to work together by wrapping an interface around one of the existing classes.
 - [ ] Bridge. Decouples an abstraction so two classes can vary independently.
 - [ ] Composite. Takes a group of objects into a single object.
@@ -47,7 +47,7 @@ Structural Design Patterns
 - [ ] Facade. Provides a simple interface to a more complex underlying object.
 - [ ] Flyweight. Reduces the cost of complex object models.
 - [ ] Proxy. Provides a placeholder interface to an underlying object to control access, reduce cost, or reduce complexity.
-Behavior Design Patterns
+### Behavior Design Patterns
 - [ ] Chain of Responsibility. Delegates commands to a chain of processing objects.
 - [ ] Command. Creates objects which encapsulate actions and parameters.
 - [ ] Interpreter. Implements a specialized language.
@@ -61,19 +61,20 @@ Behavior Design Patterns
 - [ ] Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
 
 ## Sources of data[OPTIONAL]
-API requests
+### API requests
 * /path/path 
 * /path/path
-Database entities/tables
+### Database entities/tables
 * EntityOne
 * EntityTwo
 
 ## Firebase services[OPTIONAL]
-List of firebase services that can be used
+### List of firebase services that can be used
 - [ ] Firestore
 - [ ] RemoteConfig
 - [ ] Firebase auth
 - [ ] Cloud Messaging
+- [ ] Another one ...
 
 ## What classes are covered by tests or should be covered[REQUIRED]
 - [x] UseCaseOne
