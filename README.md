@@ -1,6 +1,13 @@
 # Application ADR templates and tools
 
-# [ADR-AN-0000](ADR_AN_0000.md)
+## Context
+
+Before start of development ADR should be created and added to you pull or merge request
+It will help to estimate cost of development and create structured documentation for a module
+After development completion uml diagram must be generated for kotlin classes
+The result should be fully documented project with adr for each its module
+
+## [ADR-AN-0000](ADR_AN_0000.md)
 
 Template file that can be used for android project
 It contains required and optional fields for best estimation and designing a future module for android project

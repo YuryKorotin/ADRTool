@@ -22,7 +22,11 @@ Sample: Sample project. User profile.
 ### Should the module be updated by hot reload?
 - [ ] Yes
 - [ ] No
-### 2 of 3 means that SSR must be used for screen
+### Are there more static parts in UI or dynamic
+- [ ] Yes
+- [ ] No
+
+### 2 of 4 means that SSR must be used for screen
 
 ## MVI or MVVM(UI modules only)[OPTIONAL]
 
