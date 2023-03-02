@@ -1,0 +1,13 @@
+@startuml
+class ru.sutochno_redesign.activities.CrashActivity {
+- Button tryAgainButton
+- Button writeMessageButton
+# void onCreate(Bundle)
+- void setupViews()
+~ void restartApplication()
+~ void sendEmail()
+}
+
+
+android.app.Activity <|-- ru.sutochno_redesign.activities.CrashActivity
+@enduml
