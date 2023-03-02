@@ -1,5 +1,5 @@
 @startuml
-class ru.sutochno_redesign.activities.CrashActivity {
+class com.sample.activities.CrashActivity {
 - Button tryAgainButton
 - Button writeMessageButton
 # void onCreate(Bundle)
@@ -9,5 +9,5 @@ class ru.sutochno_redesign.activities.CrashActivity {
 }
 
 
-android.app.Activity <|-- ru.sutochno_redesign.activities.CrashActivity
+android.app.Activity <|-- com.sample.activities.CrashActivity
 @enduml
