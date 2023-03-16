@@ -100,3 +100,6 @@ The list could be replaced with link to *.kt file with intents [Intents](Intents
 ## Decision[REQUIRED]
 What is the change that we're proposing and/or doing?
 Just in few sentences
+
+## Documentation
+Logic for this module can be found to [confluence page](confluence.com)
