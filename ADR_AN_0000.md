@@ -94,7 +94,7 @@ The list could be replaced with link to *.kt file with intents [Intents](Intents
 - [x] UseCaseOne
 - [ ] UseCaseTwo
 
-## Plant uml diagram[REQUIRED]
+## Plant uml diagram[RECOMMENDED]
 [UML Diagram](plant_uml_sample.puml)
 
 ## Decision[REQUIRED]
