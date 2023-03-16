@@ -101,5 +101,5 @@ The list could be replaced with link to *.kt file with intents [Intents](Intents
 What is the change that we're proposing and/or doing?
 Just in few sentences
 
-## Documentation
+## Documentation[REQUIRED]
 Logic for this module can be found to [confluence page](confluence.com)
